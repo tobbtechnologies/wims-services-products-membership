@@ -1,4 +1,4 @@
-women In Move Solutions (Pty) Ltd - WIMS (https://www.wims.io)
+Women In Move Solutions (Pty) Ltd - WIMS (https://www.wims.io)
 --------------------------------------------------------------
 
 WIMS Growth Plan 2020
