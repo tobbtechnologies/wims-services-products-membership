@@ -88,7 +88,15 @@ With this in mind, WIMS membership will be tracked and traced globally via posse
 article,"Any WIMS voting, member or key stakeholder is to have 1000WIMTs as a minimum. 1000WIMT  will be equal to 1 WIMT Vote(WV) 
 and 1 WIMT Vote will be equal to 1 stake i.e 1WS (WIMT Stake) = 1000WIMT = 1 vote. Entry level membership requires 1WS/1000WIMT/1WV"(https://github.com/wimsio/wims-share-holding-and-benefits/blob/master/share-holding)
 
-5.Summary:
+5. Growth Strategies
+--------------------
+
+All organisations are powered by membership growth strategies and WIMS will use fair and transparent ones like referral systems. Due to 
+lots of pyramid schemes which have robbed many members money and disappeared, WIMS will only adher to 'Consumer Protection Act (CPA)' approved referral systems based on direct sales of services and products. Should WIMS activities be out of the Consumer Protection Act (CPA) of any country where WIMS has members then those activities must be reported and terminated immediately or changed and the affected losing public people must receive a public apology and/or restitution where possible.
+
+It will benefit WIMS to grow itselft in both quantity and quality.
+
+6.Summary:
 ----------
 
 1. Membership 1000WIMT at 10USDT($10) = $0.01/WIMT.
