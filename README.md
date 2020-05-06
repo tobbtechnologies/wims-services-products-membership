@@ -94,6 +94,8 @@ and 1 WIMT Vote will be equal to 1 stake i.e 1WS (WIMT Stake) = 1000WIMT = 1 vot
 1. Membership 1000WIMT at 10USDT($10) = $0.01/WIMT.
 2. Buy  USDT @ wimsbytetrade.com or else where and get 1000WIMTs at wimsbytetrade.
 
+Women or Women Empowering Businesses that do not afford to pay the once off membership $10(USDT), must be allowed to participate in WIMS activities which will help them make profit. When they can afford then they must pay the little once off $10.
+
 Should any Women not have the 1000WIMTs but needs services to start and run her business then she will be loaned 1000WIMTs 
 and is to pay the $10 later when she makes profit from her business.
 
