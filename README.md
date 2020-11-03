@@ -149,4 +149,6 @@ Thanks to all who have positively contributed to WIMS growth : Known and unknown
 Anyone member or not member is free to contribute or correct or amend for transparency purposes and to help 
 all have one vision, at github (https://github.com/wimsio)
 
+*Please note: These articles can be updated any time.
+
 ---------------- By Bernard Sibanda 06-05-2020 ----------------------------
