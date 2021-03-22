@@ -99,7 +99,7 @@ It will benefit WIMS to grow itselft in both quantity and quality.
 6.Summary:
 ----------
 
-1. Membership 1000WIMT at 10USDT($10) = $0.01/WIMT.
+1. Membership 1000WIMT at 10USDT($10) = $0.01/WIMT. Update: 10 ADA are now required or equivalent crypto.
 2. Buy  USDT @ wimsbytetrade.com or else where and get 1000WIMTs at wimsbytetrade.
 
 Women or Women Empowering Businesses that do not afford to pay the once off membership $10(USDT), must be allowed to participate in WIMS activities which will help them make profit. When they can afford then they must pay the little once off $10.
